@@ -1,2 +1,4 @@
 second file
 new line added to light-weight tagging in git.
+checking the tag to the latest commit.
+
